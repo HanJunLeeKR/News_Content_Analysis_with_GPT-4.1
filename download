@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.key
+secrets.*
+
+# Data (news article text / analysis results)
+*.csv
+*.xlsx
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
