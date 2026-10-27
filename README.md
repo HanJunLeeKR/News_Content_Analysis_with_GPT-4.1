@@ -1,4 +1,4 @@
-# News LLM Coding Toolkit
+# News_Content_Analysis_with_GPT-4.1: News LLM Coding Toolkit
 
 OpenAI API(ChatGPT)를 활용해 **뉴스 기사를 자동으로 내용분석(content analysis)** 하는 Jupyter Notebook 모음입니다.
 기사 제목·본문이 담긴 CSV를 입력하면, 분석 유형에 맞는 결과(분류값 · 근거 · 신뢰도)를 CSV로 저장합니다.
